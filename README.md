@@ -8,3 +8,6 @@ MoDD it's responsive, free and simple css library.
 4) Customizable   
 5) Modern design   
 6) Best works on mobile devices   
+
+# Examples and docs
+If you want view examples or docs, visit official site: http://slnetai.ga/modd/  
