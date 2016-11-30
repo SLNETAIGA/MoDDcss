@@ -10,4 +10,4 @@ MoDD it's responsive, free and simple css library.
 6) Best works on mobile devices   
 
 # Examples and docs
-If you want view examples or docs, visit official site: http://slnetai.ga/modd/  
+If you want view examples or docs, visit official site: http://sl.netai.net/modd/
